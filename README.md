@@ -1,6 +1,6 @@
 # 🔐 FileEncrypt-Mini
 
-A simple command-line file encryption tool built with Python using the **cryptography (Fernet)** library.
+A lightweight Python command-line application that securely encrypts and decrypts files using the Fernet symmetric encryption algorithm from the cryptography library.
 
 ## Features
 
