@@ -50,7 +50,7 @@ def decrypt_file(filename: str, f: Fernet) -> None:
     if stored_key_id != current_key_id:
         raise ValueError(
             "This file was encrypted using a different key.\n"
-            "Restore the original key to decrypt it."
+            
         )
 
 
