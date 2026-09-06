@@ -9,6 +9,8 @@ __pycache__/
 logs/
 *.log
 
+keys/*.encrypted
+
 # Encrypted/Decrypted output
 samples/*.encrypted
 samples/*.decrypted
